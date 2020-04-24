@@ -1,0 +1,17 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/reportportal/agent-net-nunit/master/src/ReportPortal.NUnitExtension/ReportPortal.config.schema",
+  "enabled": true,
+  "server": {
+    "url": "https://rp.epam.com/api/v1/",
+    "project": "Your project",
+    "authentication": {
+      "uuid": "your uuid"
+    }
+  },
+  "launch": {
+    "name": "BDD SpecFlow Project Launch",
+    "description": "this is my description of the project",
+    "debugMode": true,
+    "tags": [ "Smoke", "Chrome" ]
+  }
+}
