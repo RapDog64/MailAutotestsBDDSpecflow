@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿/// <summary>
+/// 
+/// The entity class describes a user.
+/// 
+/// </summary>
 namespace BDDAutotests.Entity
 {
     public class User
