@@ -11,7 +11,6 @@ namespace BDDAutotests.Page.MarketPage
         private By productName = By.CssSelector(".n-snippet-card2__title");
         private static readonly ILog logger = LogManager.GetLogger(typeof(MarketResultPage));
 
-
         public string PressOnTheEquipment(string nameOfProduct)
         {
             logger.Info("Waiting for " + productName + " element");

@@ -357,7 +357,6 @@
     <Compile Include="Settings\BrowserFactory.cs" />
     <Compile Include="Settings\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Settings\Customization.cs" />
     <Compile Include="Utility\DataProvider.cs" />
     <Compile Include="Utility\ScreenshotTaker.cs" />
   </ItemGroup>
